@@ -67,9 +67,9 @@ The Tableau dashboard includes:
 
 ---
 
-## **▶️ Live Dashboard (if published)**
+## **▶️ Live Dashboard 
 
-Add your Tableau Public link here: https://public.tableau.com/views/salesinsight_17468053918460/SalesPerformanceDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Tableau Public link here: https://public.tableau.com/views/salesinsight_17468053918460/SalesPerformanceDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
@@ -77,7 +77,7 @@ Add your Tableau Public link here: https://public.tableau.com/views/salesinsight
 
 1. Open the `.twbx` file in Tableau for interactive view.
 2. Review the SQL queries for data extraction logic.
-3. Explore the screenshots or PDF for a quick visual summary.
+3. Explore the PDF for a quick visual summary.
 4. Use the dataset for further analysis if needed.
 
 ---
